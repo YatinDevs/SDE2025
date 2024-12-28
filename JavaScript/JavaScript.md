@@ -6,10 +6,10 @@
 
 # Basics of Programming in JavaScript
 
-- Hello world program
-- Declare variable using var
-- More about variable
-- Let
+- Hello world program.
+- Declare variable using var.
+- More about variable.
+- Let.
 - Const
 - String Indexing
 - Useful string methods
